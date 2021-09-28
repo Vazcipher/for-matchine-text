@@ -1,0 +1,42 @@
+.mainSidebarRight{
+    display: flex;
+    flex-direction: column;
+    height: 650px;
+    background-color: white;
+    border: 1px solid;
+}
+
+
+.profile{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.profileName{
+    font-size: 10px;
+    font-weight: 5em;
+    margin-bottom: 0;
+}
+
+.actions{
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.invite_head{
+    color: rgb(18, 142, 243);
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.shared_photos{
+    color: rgb(18, 142, 243);
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: large;
+}

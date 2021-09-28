@@ -1,0 +1,15 @@
+.navbar{
+    height: 50px;
+    width: 100%;
+}
+
+.navContents{
+    display: flex;
+    margin-top: 50px;
+   
+}
+
+.phone{
+    width: 100px;
+    height: 100px;
+}
